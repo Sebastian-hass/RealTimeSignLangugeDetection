@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>si.24bbc35b-666e-11f0-adcd-80a55e207f58.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\si.24bbc35b-666e-11f0-adcd-80a55e207f58.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Si</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>129</ymin>
+			<xmax>631</xmax>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+</annotation>

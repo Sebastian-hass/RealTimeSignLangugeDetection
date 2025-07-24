@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>gracias.0b851d8a-666e-11f0-a554-80a55e207f58.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\gracias.0b851d8a-666e-11f0-a554-80a55e207f58.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gracias</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>336</ymin>
+			<xmax>640</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

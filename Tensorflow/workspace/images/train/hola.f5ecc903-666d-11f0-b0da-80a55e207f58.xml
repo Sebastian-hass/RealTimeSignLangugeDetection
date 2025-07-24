@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hola.f5ecc903-666d-11f0-b0da-80a55e207f58.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\hola.f5ecc903-666d-11f0-b0da-80a55e207f58.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hola</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>196</ymin>
+			<xmax>374</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>tequiero.4eb6bf53-666e-11f0-ac6b-80a55e207f58.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\tequiero.4eb6bf53-666e-11f0-ac6b-80a55e207f58.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Te quiero</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>74</ymin>
+			<xmax>402</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>
