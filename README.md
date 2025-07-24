@@ -1,4 +1,3 @@
-
 # Detector de Lengua de Señas en Tiempo Real ✋📷
 
 Este proyecto implementa un sistema completo para la detección en tiempo real de lenguaje de señas usando la **TensorFlow Object Detection API**. Incluye todo el flujo: desde el etiquetado de imágenes, la generación de datos, el entrenamiento y la inferencia en vivo con webcam. El paso a paso detallado para ejecutar el proyecto se encuentra en el notebook `Tutorial.ipynb`.
@@ -62,5 +61,7 @@ Utilizando OpenCV, el modelo es capaz de detectar señas a través de la webcam 
 Este proyecto fue desarrollado completamente desde cero, inspirado en proyectos de ejemplo del uso de la Object Detection API en otras aplicaciones como detección de mascarillas.
 
 ## 📜 Licencia
-
 Todos los derechos reservados
+
+## Previsualización
+https://github.com/user-attachments/assets/46811364-3485-4778-b8a4-8ea871ad8c08
