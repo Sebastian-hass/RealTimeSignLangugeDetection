@@ -2,6 +2,9 @@
 
 Este proyecto implementa un sistema completo para la detección en tiempo real de lenguaje de señas usando la **TensorFlow Object Detection API**. Incluye todo el flujo: desde el etiquetado de imágenes, la generación de datos, el entrenamiento y la inferencia en vivo con webcam. El paso a paso detallado para ejecutar el proyecto se encuentra en el notebook `Tutorial.ipynb`.
 
+## Previsualización
+https://github.com/user-attachments/assets/46811364-3485-4778-b8a4-8ea871ad8c08
+
 ---
 
 ## 📌 Características principales
@@ -62,6 +65,3 @@ Este proyecto fue desarrollado completamente desde cero, inspirado en proyectos 
 
 ## 📜 Licencia
 Todos los derechos reservados
-
-## Previsualización
-https://github.com/user-attachments/assets/46811364-3485-4778-b8a4-8ea871ad8c08
